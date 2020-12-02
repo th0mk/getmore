@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "u8Gn2Hl9jpdnmTnIVKAEA1kZoOafbGFihONunY2hFlQn4OQGllJQd244Fki3AI9qsOq2N/YbyZyVcln35qc5Og==",
+  "success": true,
+  "projectFilePath": "C:\\projects\\GetMore\\src\\GetMore.Application\\GetMore.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Thom\\.nuget\\packages\\dapper\\2.0.78\\dapper.2.0.78.nupkg.sha512",
+    "C:\\Users\\Thom\\.nuget\\packages\\fluentvalidation\\9.0.1\\fluentvalidation.9.0.1.nupkg.sha512",
+    "C:\\Users\\Thom\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\9.0.1\\fluentvalidation.dependencyinjectionextensions.9.0.1.nupkg.sha512",
+    "C:\\Users\\Thom\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\Thom\\.nuget\\packages\\mediatr.extensions.fluentvalidation.aspnetcore\\1.1.1\\mediatr.extensions.fluentvalidation.aspnetcore.1.1.1.nupkg.sha512",
+    "C:\\Users\\Thom\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\Thom\\.nuget\\packages\\serilog\\2.10.0\\serilog.2.10.0.nupkg.sha512",
+    "C:\\Users\\Thom\\.nuget\\packages\\system.reflection.emit.lightweight\\4.7.0\\system.reflection.emit.lightweight.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

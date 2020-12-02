@@ -1,0 +1,28 @@
+version: '3'
+services:
+    
+  sqlserver:
+    image: microsoft/mssql-server-linux:latest
+    container_name: sqlserver
+    volumes:
+      - sqldata:/var/opt/mssql 
+    ports:
+      - "1434:1433"
+    environment:
+      - ACCEPT_EULA=Y 
+      - MSSQL_PID=Developer
+      - SA_PASSWORD=4ETgzb2EJ2k6yLpR
+
+  # getmoreapi:
+  #   image: getmore/api:1.0
+  #   build: src
+  #   depends_on:
+  #     - sqlserver
+  #   ports:
+  #     - "5100"
+  #   environment:
+  #     - ASPNETCORE_ENVIRONMENT=Production
+
+volumes:
+  sqldata:
+    external: true    
